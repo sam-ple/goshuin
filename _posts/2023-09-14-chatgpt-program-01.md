@@ -1,8 +1,8 @@
 ---
-title: 【今更ながらChatGPT①】ラフなやり取りだけで元金均等返済を算出する簡易的なRubyプログラムが出来た
+title: 【資格】FP検定3級
 author: sam-ple
-date: 2023-09-14
-category: chatgpt
+date: 2024-04-05
+category: study
 layout: post
 ---
 
