@@ -3,8 +3,11 @@
 #theme: jekyll-theme-slate
 #theme: jekyll-theme-minimal
 remote_theme: double-great/theme@main
-title: あああ
-description: あああ
+title: メモ
+description: メモ
 
 plugins:
 - jekyll-remote-theme
+
+toc:
+    enabled: true
