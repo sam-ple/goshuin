@@ -13,10 +13,7 @@ layout: post
 <iframe class="fastyt" data-src="//www.youtube.com/embed/e6_R3q-MsI4" data-alt="動画の説明" width="300" height="169"></iframe>
 
 
-<script src="sample.js" type="text/javascript"></script>
-<link href="https://sam-ple.github.io/note/assets/sample.css" rel="stylesheet" type="text/css">
-
 <link rel="stylesheet" href="https://sam-ple.github.io/note/assets/lite-youtube-embed/src/lite-yt-embed.css" />
-<script src="https://sam-ple.github.io/note/assets/js/lite-youtube-embed/src/lite-yt-embed.js"></script>
+<script src="https://sam-ple.github.io/note/assets/lite-youtube-embed/src/lite-yt-embed.js"></script>
 
 <lite-youtube videoid="e6_R3q-MsI4" playlabel="Play"></lite-youtube>
