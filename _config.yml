@@ -1,10 +1,10 @@
 # Configurations
-title:            メモ
-longtitle:        メモ
+title:            備忘録
+longtitle:        備忘録
 author:           sam-ple
 email:            
 description: >
-  メモ
+  備忘録
 
 version:          1.0
 gitbook_version:  3.2.3
