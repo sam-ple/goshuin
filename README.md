@@ -1,10 +1,8 @@
 ---
 layout: home
-title: StudyLog
+title: 勉強記録
 permalink: /
 ---
-
-## 勉強記録
 
 
 ## 資格情報
