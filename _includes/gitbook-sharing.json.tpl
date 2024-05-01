@@ -15,7 +15,7 @@
 
                 "instapaper": false,
 
-                "twitter": true,
+                "twitter": false,
               {% if site.twitter_username %}
                 "twitter_link": "https://twitter.com/{{ site.twitter_username }}",
               {% endif %}
