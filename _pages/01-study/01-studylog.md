@@ -2,7 +2,7 @@
 title: 勉強記録
 author: sam-ple
 ## date: 2024-05-01
-category: memo
+category: study
 layout: post
 ---
 
