@@ -6,6 +6,8 @@ category: study
 layout: post
 ---
 
+![FP3級](https://img.shields.io/badge/FP-3級-C47222.svg)（2024-00-00）
+
 - あああ
 - いいい
 
