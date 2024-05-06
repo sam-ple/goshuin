@@ -1,5 +1,5 @@
 ---
-title: 変更記録
+title: iPad一覧
 author: sam-ple
 ## date: 2024-05-01
 category: memo
