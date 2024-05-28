@@ -1,8 +1,8 @@
 ---
 title: 資格情報
 author: sam-ple
-## date: 2024-05-01
-category: study
+## date: 2024-00-00
+## category: memo
 layout: post
 ---
 

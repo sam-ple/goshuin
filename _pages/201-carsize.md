@@ -1,7 +1,7 @@
 ---
-title: 車サイズ
+title: 🚙車サイズ
 author: sam-ple
-## date: 2024-05-01
+## date: 2024-00-00
 ## category: memo
 layout: post
 ---
