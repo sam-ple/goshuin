@@ -229,6 +229,6 @@ layout: post
 　城上神社
 　足立美術館
 
-<img src="./img/goshuin/sample001.jpg">
-<img src="./img/goshuin/sample002.jpg">
-<img src="./img/goshuin/sample003.jpg">
+<img src="../img/goshuin/sample001.jpg">
+<img src="../img/goshuin/sample002.jpg">
+<img src="../img/goshuin/sample003.jpg">
