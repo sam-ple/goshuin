@@ -11,3 +11,4 @@ layout: post
 <img src="../img/goshuin/203.jpg" style="width:350px;">
 <img src="../img/goshuin/204.jpg" style="width:350px;">
 <img src="../img/goshuin/205.jpg" style="width:350px;">
+<img src="../img/goshuin/206.jpg" style="width:350px;">
