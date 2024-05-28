@@ -208,6 +208,8 @@ layout: post
 | 西海道 | 対馬 | 　 | 海神神社 | 長崎県対馬市 |
 | 西海道 | 琉球 | 　 | 波上宮 | 沖縄県那覇市 |
 
+<a href="http://ichinomiya-junpai.jp/img/MAP.png">一宮</a>
+
 京都府
 　比叡山
 滋賀県
