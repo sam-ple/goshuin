@@ -6,9 +6,9 @@ author: sam-ple
 layout: post
 ---
 
-<img src="../img/goshuin/201.jpg" style="width:350px;">
-<img src="../img/goshuin/202.jpg" style="width:350px;">
-<img src="../img/goshuin/203.jpg" style="width:350px;">
-<img src="../img/goshuin/204.jpg" style="width:350px;">
-<img src="../img/goshuin/205.jpg" style="width:350px;">
-<img src="../img/goshuin/206.jpg" style="width:350px;">
+<img src="../img/goshuin/thumb/201.jpg" style="width:350px;">
+<img src="../img/goshuin/thumb/202.jpg" style="width:350px;">
+<img src="../img/goshuin/thumb/203.jpg" style="width:350px;">
+<img src="../img/goshuin/thumb/204.jpg" style="width:350px;">
+<img src="../img/goshuin/thumb/205.jpg" style="width:350px;">
+<img src="../img/goshuin/thumb/206.jpg" style="width:350px;">
