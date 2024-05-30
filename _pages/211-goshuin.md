@@ -77,8 +77,8 @@ list-style-type: none;
     <h2>基本設定　（ID）</h2>
 
     <div id="lightgallery-default">
-    <a href="apple.jpg">
-        <img src="apple.jpg" width="320" height="240" />
+    <a href="../img/goshuin/206.jpg">
+        <img src="../img/goshuin/thumb/206.jpg" width="320" height="240" />
     </a>
     <a href="rendering.jpg">
         <img src="rendering.jpg" width="320" height="240" />
