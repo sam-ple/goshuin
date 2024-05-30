@@ -17,7 +17,7 @@ layout: post
         hash:true, //複数設置する場合
         galleryId:element.id
     });
-<script>
+</script>
 
 <div id="gallery">
 <a href="../img/goshuin/206.jpg"><img src="../img/goshuin/thumb/206.jpg" style="width:350px;" /></a>
