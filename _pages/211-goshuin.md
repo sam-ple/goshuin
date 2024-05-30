@@ -6,7 +6,8 @@ author: sam-ple
 layout: post
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery-js/1.2.0/css/lightgallery.min.css" />
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery-js/1.2.0/css/lightgallery.min.css" /> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery-js/1.4.0/css/lightgallery.min.css" integrity="sha512-kwJUhJJaTDzGp6VTPBbMQWBFUof6+pv0SM3s8fo+E6XnPmVmtfwENK0vHYup3tsYnqHgRDoBDTJWoq7rnQw2+g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <div id="lightgallery-default">
 <a href="../img/goshuin/206.jpg"><img src="../img/goshuin/thumb/206.jpg" style="width:350px;" /></a>
@@ -38,7 +39,8 @@ layout: post
 <a href="../img/goshuin/101.jpg"><img src="../img/goshuin/thumb/101.jpg" style="width:350px;" /></a>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery-js/1.2.0/js/lightgallery.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery-js/1.2.0/js/lightgallery.min.js"></script> --
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery-js/1.4.0/js/lightgallery.min.js" integrity="sha512-b4rL1m5b76KrUhDkj2Vf14Y0l1NtbiNXwV+SzOzLGv6Tz1roJHa70yr8RmTUswrauu2Wgb/xBJPR8v80pQYKtQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <!-- ズーム -->
 <script src="https://sachinchoolur.github.io/lightgallery.js/lightgallery/js/lg-zoom.js"></script>
 <!-- 動画 -->
