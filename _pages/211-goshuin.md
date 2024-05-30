@@ -8,7 +8,7 @@ layout: post
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/css/lightgallery.min.css" integrity="sha512-F2E+YYE1gkt0T5TVajAslgDfTEUQKtlu4ralVq78ViNxhKXQLrgQLLie8u1tVdG2vWnB3ute4hcdbiBtvJQh0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<div id="gallery">
+<div id="lightgallery">
 <a href="../img/goshuin/206.jpg"><img src="../img/goshuin/thumb/206.jpg" style="width:350px;" /></a>
 <a href="../img/goshuin/205.jpg"><img src="../img/goshuin/thumb/205.jpg" style="width:350px;" /></a>
 <a href="../img/goshuin/204.jpg"><img src="../img/goshuin/thumb/204.jpg" style="width:350px;" /></a>
@@ -40,11 +40,6 @@ layout: post
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/lightgallery.min.js" integrity="sha512-jEJ0OA9fwz5wUn6rVfGhAXiiCSGrjYCwtQRUwI/wRGEuWRZxrnxoeDoNc+Pnhx8qwKVHs2BRQrVR9RE6T4UHBg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-<script>
-    let element = document.getElementById("#gallery");
-    lightGallery(element, {
-        plugins: [lgThumbnail],
-        thumbnail:true,
-        galleryId:element.id
-    });
+<script type="text/javascript">
+    lightGallery(document.getElementById('lightgallery')
 </script>
