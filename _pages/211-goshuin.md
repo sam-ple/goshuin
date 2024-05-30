@@ -7,11 +7,6 @@ layout: post
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/css/lightgallery.min.css" integrity="sha512-F2E+YYE1gkt0T5TVajAslgDfTEUQKtlu4ralVq78ViNxhKXQLrgQLLie8u1tVdG2vWnB3ute4hcdbiBtvJQh0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/lightgallery.min.js" integrity="sha512-jEJ0OA9fwz5wUn6rVfGhAXiiCSGrjYCwtQRUwI/wRGEuWRZxrnxoeDoNc+Pnhx8qwKVHs2BRQrVR9RE6T4UHBg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<script>
-    let element = document.getElementById("gallery");
-</script>
 
 <div id="gallery">
 <a href="../img/goshuin/206.jpg"><img src="../img/goshuin/thumb/206.jpg" style="width:350px;" /></a>
@@ -42,3 +37,9 @@ layout: post
 <a href="../img/goshuin/102.jpg"><img src="../img/goshuin/thumb/102.jpg" style="width:350px;" /></a>
 <a href="../img/goshuin/101.jpg"><img src="../img/goshuin/thumb/101.jpg" style="width:350px;" /></a>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/lightgallery.min.js" integrity="sha512-jEJ0OA9fwz5wUn6rVfGhAXiiCSGrjYCwtQRUwI/wRGEuWRZxrnxoeDoNc+Pnhx8qwKVHs2BRQrVR9RE6T4UHBg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script>
+    let element = document.getElementById("gallery");
+</script>
