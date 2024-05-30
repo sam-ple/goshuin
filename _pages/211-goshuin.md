@@ -11,12 +11,6 @@ layout: post
 
 <script>
     let element = document.getElementById("gallery");
-    lightGallery(element, {
-        plugins: [lgHash, lgThumbnail],
-        thumbnail:true, //サムネイル機能を使う場合
-        hash:true, //複数設置する場合
-        galleryId:element.id
-    });
 </script>
 
 <div id="gallery">
