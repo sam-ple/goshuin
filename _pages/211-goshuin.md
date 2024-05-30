@@ -41,5 +41,10 @@ layout: post
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/lightgallery.min.js" integrity="sha512-jEJ0OA9fwz5wUn6rVfGhAXiiCSGrjYCwtQRUwI/wRGEuWRZxrnxoeDoNc+Pnhx8qwKVHs2BRQrVR9RE6T4UHBg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <script>
-    let element = document.getElementById("gallery");
+    let element = document.getElementById("#gallery");
+    lightGallery(element, {
+        plugins: [lgThumbnail],
+        thumbnail:true,
+        galleryId:element.id
+    });
 </script>
