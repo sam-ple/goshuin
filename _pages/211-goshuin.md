@@ -39,7 +39,20 @@ layout: post
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery-js/1.2.0/js/lightgallery.min.js"></script>
+<!-- ズーム -->
+<script src="https://sachinchoolur.github.io/lightgallery.js/lightgallery/js/lg-zoom.js"></script>
+<!-- 動画 -->
+<script src="https://sachinchoolur.github.io/lightgallery.js/lightgallery/js/lg-video.js"></script>
+<!-- フルスクリーン -->
+<script src="https://sachinchoolur.github.io/lightgallery.js/lightgallery/js/lg-fullscreen.js"></script>
+<!-- SNSシェアボタン -->
 <script src="https://sachinchoolur.github.io/lightgallery.js/lightgallery/js/lg-share.js"></script>
+<!-- ギャラリーURLパラメータ -->
+<script src="https://sachinchoolur.github.io/lightgallery.js/lightgallery/js/lg-hash.js"></script>
+<!-- オートプレイ -->
+<script src="https://sachinchoolur.github.io/lightgallery.js/lightgallery/js/lg-autoplay.js"></script>
+<!-- ページ送り -->
+<script src="https://sachinchoolur.github.io/lightgallery.js/lightgallery/js/lg-pager.js"></script>
 <script>
 lightGallery(document.getElementById("lightgallery-default"));
 </script>
