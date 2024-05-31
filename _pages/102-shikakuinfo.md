@@ -1,5 +1,5 @@
 ---
-title: 資格情報
+title: 📝資格情報
 author: sam-ple
 ## date: 2024-00-00
 ## category: memo

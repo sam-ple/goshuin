@@ -1,5 +1,5 @@
 ---
-title: iPad一覧
+title: 📱iPad一覧
 author: sam-ple
 ## date: 2024-00-00
 ## category: memo

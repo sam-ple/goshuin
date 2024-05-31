@@ -8,3 +8,8 @@ permalink: /
 - とはいえ真面目にやろうとすると疲れるので、適当に気楽につける自分用のシンプルノート。
 
 ### ChangeLog
+- 『 Lite YouTube Embed 』
+https://cdnjs.com/libraries/lite-youtube-embed
+https://cdnjs.com/libraries/lightgallery-js
+https://cdnjs.com/libraries/lightgallery
+https://cdnjs.com/libraries/jquery.tablesorter
