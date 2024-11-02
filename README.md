@@ -8,6 +8,8 @@ permalink: /
 - とはいえ真面目にやろうとすると疲れるので、適当に気楽につける自分用のシンプルノート。
 
 ### ChangeLog
+- 勉強開始：2024年04月XX日
+- 瞑想開始：2024年05月XX日
 - 『 Lite YouTube Embed 』
 https://cdnjs.com/libraries/lite-youtube-embed
 https://cdnjs.com/libraries/lightgallery-js
